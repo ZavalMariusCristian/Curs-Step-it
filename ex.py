@@ -8,3 +8,5 @@ fin = open("date.in", "rt")
 # print(sum(list(map(int,fin.readlines()))))
 print(sum(list(map(int,fin.read().split(" ")))))
 
+print("ceva")
+print("chestie")
