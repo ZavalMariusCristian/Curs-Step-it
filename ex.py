@@ -10,4 +10,4 @@ print(sum(list(map(int,fin.read().split(" ")))))
 
 print("ceva")
 print("chestie")
-print("schimbare")
+print("o alta schimbare")
